@@ -19,6 +19,8 @@
 
 source 'https://rubygems.org'
 
+gem 'elastic-transport', git: 'https://github.com/MiGrocer-1/elastic-transport-ruby'
+
 # Specify your gem's dependencies in elasticsearch.gemspec
 gemspec
 
