@@ -45,7 +45,6 @@ Gem::Specification.new do |s|
 
   s.required_ruby_version = '>= 2.4'
 
-  s.add_dependency 'elastic-transport', git: 'https://github.com/MiGrocer-1/elastic-transport-ruby'
   s.add_dependency 'elasticsearch-api', '8.4.0'
 
   s.add_development_dependency 'bundler'
